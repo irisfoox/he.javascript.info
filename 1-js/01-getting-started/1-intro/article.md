@@ -14,10 +14,13 @@ Scripts are provided and executed as plain text. They don't need special prepara
 סקריפטים מסופקים ומוצאים לפועל כטקסט רגיל. הם לא צריכים הכנות מיוחדות דוגמת קומפילציה כדי לרוץ.
 
 In this aspect, JavaScript is very different from another language called [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
-
+במובן זה, ג'אבהסקריט מאד שונה משפת תיכנות אחרת בשם ג'אווה
 ```smart header="Why is it called <u>Java</u>Script?"
-When JavaScript was created, it initially had another name: "LiveScript". But Java was very popular at that time, so it was decided that positioning a new language as a "younger brother" of Java would help.
-
+```smart header="למה זה נקרא <u>ג'אווה</u>סקריפט?"
+When JavaScript was created, it initially had another name: "LiveScript". But Java was very popular at that time, so it was decided that
+כאשר ג'אווהסקריפט נוצרה,בהתחלה היה לה את השם "לייבסקריפט". אבל אז ג'אווה היתה מאד פופולרית, ולכן הוחלט שיעזור
+positioning a new language as a "younger brother" of Java would help.
+למקם את השפה החדשה כ"אחותה הצעירה" של ג'אווה
 But as it evolved, JavaScript became a fully independent language with its own specification called [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript), and now it has no relation to Java at all.
 ```
 
